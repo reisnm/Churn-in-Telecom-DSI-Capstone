@@ -27,4 +27,4 @@ Confusion matrix, classification report, ROC curve and precision and recall
 Business recommendations and model limitations
 
 Link for presentation:
-[presentarion](https://github.com/reisnm/Churn-in-Telecom-DSI-Capstone/blob/main/Churn%20in%20Telecom%20-%20submitted%20version.pdf)
+[presentation](https://github.com/reisnm/Churn-in-Telecom-DSI-Capstone/blob/main/Churn%20in%20Telecom%20-%20submitted%20version.pdf)
