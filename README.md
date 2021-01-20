@@ -1,4 +1,4 @@
-###**Capstone Project - Churn in Telecom - Data Science Immersive - General Assembly**
+### **Capstone Project - Churn in Telecom - Data Science Immersive - General Assembly**
 
 **Definition and objectives**
 
