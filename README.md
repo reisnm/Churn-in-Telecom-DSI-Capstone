@@ -8,6 +8,8 @@ Is well known that it is more costly to get a new client than keeping an existin
 This project was executed using data from a telecom company in the United States in 2009 and it aimed to predict how likely customers were to end the contract with the company, identify who they were and what services they use, in order to define them as targets for retention strategies and as well, provide recommendations for such strategies.
 
 **Navigating through notebook:**
+Link for notebook:
+https://github.com/reisnm/Churn-in-Telecom-DSI-Capstone/blob/main/Churn%20in%20Telecom%20-%20submitted%20version.pdf
 
 **Business case:**
 Target audience, goals, success metrics
@@ -28,3 +30,4 @@ Confusion matrix, classification report, ROC curve and precision and recall
 Business recommendations and model limitations
 
 Link for presentation:
+https://github.com/reisnm/Churn-in-Telecom-DSI-Capstone/blob/main/Churn%20in%20Telecom%20-%20submitted%20version.pdf
