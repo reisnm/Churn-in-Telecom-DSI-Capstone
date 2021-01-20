@@ -10,29 +10,22 @@ This project was executed using data from a telecom company in the United States
 
 
 **Navigating through notebook:**
-
 Link for notebook:
-
 [code](https://github.com/reisnm/Churn-in-Telecom-DSI-Capstone/blob/main/Churn%20in%20Telecom%20-%20submitted%20version.pdf)
 
 **Business case:**
-
 Target audience, goals, success metrics
 
 **Data, variables and EDA:**
-
 Data joining, preparation and visualization
 
 **Machine learning models:**
-
 Logistic regression, KNN, Decision tree classifier, Random forest classifier, Gradient boosting classifier, SVM, MLP
 
 **Model evaluation:**
-
 Confusion matrix, classification report, ROC curve and precision and recall
 
 **Conclusion:**
-
 Business recommendations and model limitations
 
 Link for presentation:
