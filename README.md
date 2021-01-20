@@ -14,6 +14,7 @@ Link for notebook:
 [code](https://github.com/reisnm/Churn-in-Telecom-DSI-Capstone/blob/main/Churn%20in%20Telecom%20-%20submitted%20version.pdf)
 
 **Business case:**
+
 Target audience, goals, success metrics
 
 **Data, variables and EDA:**
